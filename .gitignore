@@ -1,0 +1,11 @@
+
+KorinneStegall/class_roster_migration/
+*.ipch
+C867-ClassRoster/.vs/C867-ClassRoster/FileContentIndex/94ab4cd6-1235-47a7-9fa4-35e7bab69ff9.vsidx
+*.vsidx
+*.lock
+C867-ClassRoster/.vs/C867-ClassRoster/v17/.suo
+*.db
+*.db-shm
+*.db-wal
+C867-ClassRoster/.vs/C867-ClassRoster/v17/Browse.VC.opendb
