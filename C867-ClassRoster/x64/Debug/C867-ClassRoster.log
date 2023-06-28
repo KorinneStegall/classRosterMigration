@@ -1,0 +1,10 @@
+﻿  Repo.cpp
+C:\Users\korin\OneDrive\Documents\GitHub\class_roster_migration\C867-ClassRoster\Repo.cpp(8,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\korin\OneDrive\Documents\GitHub\class_roster_migration\C867-ClassRoster\Repo.cpp(12,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\korin\OneDrive\Documents\GitHub\class_roster_migration\C867-ClassRoster\Repo.cpp(16,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\korin\OneDrive\Documents\GitHub\class_roster_migration\C867-ClassRoster\Repo.cpp(20,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\korin\OneDrive\Documents\GitHub\class_roster_migration\C867-ClassRoster\Repo.cpp(23,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\korin\OneDrive\Documents\GitHub\class_roster_migration\C867-ClassRoster\Repo.cpp(26,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  C867-ClassRoster.vcxproj -> C:\Users\korin\OneDrive\Documents\GitHub\class_roster_migration\C867-ClassRoster\x64\Debug\C867-ClassRoster.exe
